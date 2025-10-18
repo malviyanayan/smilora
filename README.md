@@ -7,7 +7,7 @@
 
 Smilora is a modern and fully responsive dental website designed to provide essential information about dental services, team, and booking appointments. Built with HTML, CSS, and JavaScript for seamless performance across all devices.
 
-<a href="#"><strong>➥ Live Demo</strong></a>
+<a href="https://smilora.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 

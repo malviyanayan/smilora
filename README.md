@@ -51,7 +51,7 @@ Smilora aims to make dental care accessible and informative. Visitors can explor
 
 This project, **Smilora**, was created purely for learning purposes to improve my front-end web development skills using HTML, CSS, and JavaScript.
 
-I was inspired by an existing GitHub project called [Dentelo](https://github.com/example/dentelo) and carefully studied it to understand its structure and design. Using that knowledge, I recreated a similar website called Smilora to practice and enhance my skills.  
+I was inspired by an existing GitHub project called [Dentelo](https://github.com/codewithsadee/dentelo) and carefully studied it to understand its structure and design. Using that knowledge, I recreated a similar website called Smilora to practice and enhance my skills.  
 This project is for personal learning and portfolio purposes only.
 
 ---

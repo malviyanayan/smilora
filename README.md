@@ -7,9 +7,8 @@
 
 Smilora is a modern and fully responsive dental website designed to provide essential information about dental services, team, and booking appointments. Built with HTML, CSS, and JavaScript for seamless performance across all devices.
 
-
-
 <!-- Live demo link opens in new tab -->
+
 <a href="https://smilora.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>➥ Live Demo</strong></a>
 
 </div>
@@ -18,12 +17,12 @@ Smilora is a modern and fully responsive dental website designed to provide esse
 
 ## Table of Contents
 
-- [About Smilora](#about-smilora)  
-- [Features](#features)  
-- [Screenshots](#screenshots)  
-- [Getting Started](#getting-started)  
-- [Contact](#contact)  
-- [License & Credits](#license--credits)  
+- [About Smilora](#about-smilora)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+- [Contact](#contact)
+- [License & Credits](#license--credits)
 - [My Purpose](#my-purpose)
 
 ---
@@ -36,22 +35,31 @@ Smilora aims to make dental care accessible and informative. Visitors can explor
 
 ## Features
 
-- Fully responsive layout for desktop, tablet, and mobile  
-- Hero section with welcoming message and call-to-action  
-- Comprehensive Services section with detailed descriptions  
-- About section emphasizing dental care commitment  
-- Team section showcasing expert dentists with social media links  
-- Blog section to keep patients updated  
-- Contact section with email, phone, and location  
-- Book appointment call-to-action button  
-- Smooth scrolling and back-to-top functionality  
+- Fully responsive layout for desktop, tablet, and mobile
+- Hero section with welcoming message and call-to-action
+- Comprehensive Services section with detailed descriptions
+- About section emphasizing dental care commitment
+- Team section showcasing expert dentists with social media links
+- Blog section to keep patients updated
+- Contact section with email, phone, and location
+- Book appointment call-to-action button
+- Smooth scrolling and back-to-top functionality
+
+---
+
+## My Purpose
+
+This project, **Smilora**, was created purely for learning purposes to improve my front-end web development skills using HTML, CSS, and JavaScript.
+
+I was inspired by an existing GitHub project called [Dentelo](https://github.com/example/dentelo) and carefully studied it to understand its structure and design. Using that knowledge, I recreated a similar website called Smilora to practice and enhance my skills.  
+This project is for personal learning and portfolio purposes only.
 
 ---
 
 ## Screenshots
 
 ![Smilora Desktop](./readme-images/desktop.png "Desktop View")  
-![Smilora Mobile](./readme-images/mobile.jpeg "Mobile View")  
+![Smilora Mobile](./readme-images/mobile.jpeg "Mobile View")
 
 ---
 
@@ -63,3 +71,4 @@ To run Smilora locally, follow these steps:
 
 ```bash
 git clone https://github.com/malviyanayan/smilora.git
+```

@@ -21,8 +21,6 @@ Smilora is a modern and fully responsive dental website designed to provide esse
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Contact](#contact)
-- [License & Credits](#license--credits)
 - [My Purpose](#my-purpose)
 
 ---
